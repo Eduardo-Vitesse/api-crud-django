@@ -1,0 +1,7 @@
+THIS PROJECT USE REST-FRAMEWORK
+
+# This router is to list and add employee by api
+http://127.0.0.1:8000/api/employee/
+
+# Select the router using (id) to edit or delete employee by api
+http://127.0.0.1:8000/api/employee/id/
